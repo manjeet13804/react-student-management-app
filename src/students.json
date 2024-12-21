@@ -1,0 +1,173 @@
+[
+    {
+      "name": "Rohit",
+      "age": 20,
+      "marks": 85,
+      "avgMarks": 80,
+      "rollNumber": "A102",
+      "class": "10th Grade",
+      "city": "Delhi",
+      "attendance": "95%"
+    },
+    {
+      "name": "sumit",
+      "age": 19,
+      "marks": 78,
+      "avgMarks": 74,
+      "rollNumber": "B203",
+      "class": "10th Grade",
+      "city": "mumbai",
+      "attendance": "89%"
+    },
+    {
+        "name": "Mohit",
+        "age": 20,
+        "marks": 85,
+        "avgMarks": 80,
+        "rollNumber": "A103",
+        "class": "10th Grade",
+        "city": "Delhi",
+        "attendance": "95%"
+      },
+      {
+        "name": "Sohit",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B204",
+        "class": "10th Grade",
+        "city": "mumbai",
+        "attendance": "89%"
+      },
+      {
+        "name": "Rohit",
+        "age": 20,
+        "marks": 85,
+        "avgMarks": 80,
+        "rollNumber": "A104",
+        "class": "10th Grade",
+        "city": "Delhi",
+        "attendance": "95%"
+      },
+      {
+        "name": "sumit",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B205",
+        "class": "10th Grade",
+        "city": "mumbai",
+        "attendance": "89%"
+      },
+      {
+        "name": "Rohit",
+        "age": 20,
+        "marks": 85,
+        "avgMarks": 80,
+        "rollNumber": "A105",
+        "class": "10th Grade",
+        "city": "Delhi",
+        "attendance": "95%"
+      },
+      {
+        "name": "sumit",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B206",
+        "class": "10th Grade",
+        "city": "mumbai",
+        "attendance": "89%"
+      },
+      {
+        "name": "Rohit",
+        "age": 20,
+        "marks": 85,
+        "avgMarks": 80,
+        "rollNumber": "A106",
+        "class": "10th Grade",
+        "city": "Delhi",
+        "attendance": "95%"
+      },
+      {
+        "name": "sumit",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B207",
+        "class": "10th Grade",
+        "city": "mumbai",
+        "attendance": "89%"
+      },
+      {
+        "name": "Rohit",
+        "age": 20,
+        "marks": 85,
+        "avgMarks": 80,
+        "rollNumber": "A108",
+        "class": "10th Grade",
+        "city": "Delhi",
+        "attendance": "95%"
+      },
+      {
+        "name": "sumit",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B209",
+        "class": "10th Grade",
+        "city": "mumbai",
+        "attendance": "89%"
+      },
+      {
+        "name": "Rohit",
+        "age": 20,
+        "marks": 85,
+        "avgMarks": 80,
+        "rollNumber": "A109",
+        "class": "10th Grade",
+        "city": "Delhi",
+        "attendance": "95%"
+      },
+      {
+        "name": "sumit",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B210",
+        "class": "10th Grade",
+        "city": "mumbai",
+        "attendance": "89%"
+      },
+      {
+        "name": "Rohit",
+        "age": 20,
+        "marks": 85,
+        "avgMarks": 80,
+        "rollNumber": "A110",
+        "class": "10th Grade",
+        "city": "Delhi",
+        "attendance": "95%"
+      },
+      {
+        "name": "sumit",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B211",
+        "class": "10th Grade",
+        "city": "mumbai",
+        "attendance": "89%"
+      },
+      {
+        "name": "Rohit",
+        "age": 20,
+        "marks": 85,
+        "avgMarks": 80,
+        "rollNumber": "A111",
+        "class": "10th Grade",
+        "city": "Delhi",
+        "attendance": "95%"
+      }
+  ]
+  
