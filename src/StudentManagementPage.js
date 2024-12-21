@@ -33,13 +33,13 @@ console.log(totalPages)
       ) : (
         <StudentTable students={students} />
       )}
-      {!isMobile && (
+      
         <Pagination
           currentPage={currentPage}
           totalPages={totalPages}
           onPageChange={setCurrentPage}
         />
-      )}
+      
     </div>
   );
 };
